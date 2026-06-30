@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS "vendor";
+
+DROP TABLE IF EXISTS "order";
+
+DROP TABLE IF EXISTS "inventory";
+
+DROP TABLE IF EXISTS "order_item";
+
+DROP TABLE IF EXISTS "billing";
